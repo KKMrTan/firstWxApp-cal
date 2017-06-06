@@ -1,0 +1,22 @@
+.main{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    background-image: url(../assets/img/bg.png);
+    background-repeat: repeat;
+    padding-top: 30rpx;
+}
+.item{
+    width:90%;
+    line-height: 100rpx;
+    margin-top: 10rpx;
+    margin-bottom: 10rpx;
+    border-radius: 3px;
+    padding-left: 10rpx;
+    color: white;
+    font-weight: bold;
+    border: 1px solid #da7c0c;
+    background-color: #f78d1d;
+}

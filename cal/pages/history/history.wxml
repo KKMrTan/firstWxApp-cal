@@ -1,0 +1,5 @@
+<view class="main">
+    <view wx:for="{{history}}" class="item">
+    {{index + 1}}: {{item}}
+    </view>
+</view>
